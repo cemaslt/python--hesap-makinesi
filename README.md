@@ -1,4 +1,4 @@
-# python--hesap-makinesi
+# Python Hesap Makinesi
 Python basit hesap makinesi.
 
 
