@@ -6,4 +6,4 @@ Python basit hesap makinesi.
 
 > Python ile yapılmış , exe dosyalı bir hesap makinesi.
 
-> Öğrenin amaçlı kullanabilirsiniz.
+> Öğrenim amaçlı kullanabilirsiniz.
